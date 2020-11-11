@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab9_AndroidIntents</string>
+
+    <string-array name="array">
+        <item> Open Website </item>
+        <item> Open Contacts </item>
+        <item> Open Phone Dialer </item>
+
+    </string-array>
+
+</resources>
